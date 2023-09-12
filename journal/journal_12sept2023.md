@@ -6,11 +6,11 @@ Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-ac
 ### Rose:
 ChatGPT is a very capable tool to use in different aspects; however, it is important to know how to make connections with it, and not all the answers are completely correct, so they need to be checked.
 
-### Bud: 
+## Bud: 
 I am looking for how to connect to GitHub using the terminal and commit changes to my personal repository on GitHub. Furthermore, I am eager to learn how to use GitHub to create a personal webpage. 
 
 ### Thorn: 
 How to get a token to connect to Github, as well as running Python code on Github.
 
-## Additional thought
+# Additional thought
 It would be beneficial to have simple coding exercises related to what we learn each week.
