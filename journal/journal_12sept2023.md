@@ -4,13 +4,13 @@
 Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-activity-and-worksheet#:~:text=%22Rose%2C%20Bud%2C%20Thorn%22%20is%20a%20mindful%20design%2D,day%2C%20week%2C%20or%20month.) model:
 
 ### Rose:
-The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
+ChatGPT is a very capable tool to use in different aspects; however, it is important to know how to make connections with it, and not all the answers are completely correct, so they need to be checked.
 
 ### Bud: 
-Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your research in the future. 
+I am looking for how to connect to GitHub using the terminal and commit changes to my personal repository on GitHub. Furthermore, I am eager to learn how to use GitHub for creating a personal webpage 
 
 ### Thorn: 
-Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. 
+How to obtain a token to connect to GitHub and run Python code on GitHub.
 
 ## Additional thought
-Write anything that you think would be important for YOU later on.
+It would be beneficial to have simple coding exercises related to what we learn each week.
